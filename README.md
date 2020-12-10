@@ -1,9 +1,10 @@
 # sample-express-routing
 Sample routing with Express.js
 - Route file per controller for better management
-- All route files imported in routes/index.js
+- All route files imported to routes/index.js
+- And we can import all routes with just one file (routes/index.js) to app.js
 
-Structure Folder
+Folder Structure
 <pre>
 .
 ├── README.md

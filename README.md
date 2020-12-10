@@ -3,7 +3,7 @@ Sample routing with Express.js
 - Route file per controller for better management
 - All route files imported in routes/index.js
 
-Structur Folder
+Structure Folder
 <pre>
 .
 ├── README.md
